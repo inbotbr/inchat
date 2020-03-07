@@ -55,12 +55,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "InChat | Chat de Atendimento Humano",
-        "meta_descr": "Atendimento humanizado, muito além de um chatbot.",
+        "title": "InChat | Plataforma de chat com atendimento humano, integrada com inteligência artificial.",
+        "meta_descr": "Potencialize os resultados de sua equipe e reduza o tempo de atendimento ao seu cliente, \napoiado pelo nosso assistente virtual com inteligência artificial.",
         "header_custom": "",
         "footer_custom": "<iframe width=\"70\" height=\"70\" src=\"https://whatsmagic.bitnix.com.br/embed/?id=67e72c47b5&tl=NTUxMTk4OTQwNDk3OQ==\" frameborder=\"0\" style=\"position:fixed;z-index:1000;bottom:20px;right:20px;\"></iframe>",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/inbot%20-%20background%20inchat-960x540.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/backgroundsocial_inchat-1280x720.jpg"
       },
       "components": [
         {
